@@ -16,4 +16,4 @@ def increment_number(data: list):
 
 
 evens_first([7, 3, 5, 6, 4, 10, 3, 2])
-increment_number([1, 2, 9] )
+increment_number([1, 2, 9])
